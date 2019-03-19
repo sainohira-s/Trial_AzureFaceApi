@@ -1,1 +1,1 @@
-# Trial_AzureFaceApi
+# Azure Face Apiを試すスクリプト(Python)
